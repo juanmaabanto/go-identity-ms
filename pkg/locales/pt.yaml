@@ -1,0 +1,9 @@
+ERROR_CLIENT_APP_NOT_FOUND: ClientApp não encontrada
+ERROR_EMAIL_EXISTS: O e-mail já está sendo usado em outra conta
+ERROR_MISSING_FIELDS: Campos obrigatórios não fornecidos
+ERROR_USER_INACTIVE: A conta de usuário está inativa
+ERROR_USER_IS_LOCK_OUT: O usuário está bloqueado, tente novamente mais tarde
+ERROR_USER_NAME_EXISTS: O nome de usuário já está sendo usado em outra conta
+ERROR_USER_NOT_FOUND: Conta de usuário não encontrada
+ERROR_WRONG_PASSWORD: Senha incorreta
+ERROR_WRONG_PASSWORD_LOCKED: Senha errada, conta bloqueada
